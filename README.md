@@ -14,6 +14,7 @@ The required arguments
 * ELISA_DATA: ELISA samples absorbance data as given example format
 * DILUTION_RATIO: dilution ratio of ELISA samples absorbance
 * OUT_DIR: output file 
+
 This script ouput the results for given data.
 
 ```python elisa.py -s Elisa_s.xlsx -e Elisa.xlsx -d d_r.txt -od out_dir```
